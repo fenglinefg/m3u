@@ -1,70 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="宝应新闻综合" tvg-name="宝应新闻综合" group-title="江苏台",宝应新闻综合
-http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228007/index.m3u8
-#EXTINF:-1 tvg-id="宝应生活资讯" tvg-name="宝应生活资讯" group-title="江苏台",宝应生活资讯
-http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228039/index.m3u8 
-#EXTINF:-1 tvg-id="常州公共" tvg-name="常州公共" group-title="江苏台",常州公共
-http://223.110.245.158/ott.js.chinamobile.com/PLTV/3/224/3221227772/index.m3u8
-#EXTINF:-1 tvg-id="常州新闻综合" tvg-name="常州新闻综合" group-title="江苏台",常州新闻综合
-http://183.207.248.167/ott.js.chinamobile.com/PLTV/3/224/3221227752/index.m3u8
-#EXTINF:-1 tvg-id="常州生活" tvg-name="常州生活" group-title="江苏台",常州生活
-http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227816/index.m3u8
-#EXTINF:-1 tvg-id="常州都市" tvg-name="常州都市" group-title="江苏台",常州都市
-http://183.207.249.235/ott.js.chinamobile.com/PLTV/3/224/3221227755/index.m3u8
-#EXTINF:-1 tvg-id="徐州1" tvg-name="徐州1" group-title="江苏台",徐州1
-http://183.207.248.139/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:-1 tvg-id="徐州2" tvg-name="徐州2" group-title="江苏台",徐州2
-http://183.207.248.133/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
-#EXTINF:-1 tvg-id="徐州3" tvg-name="徐州3" group-title="江苏台",徐州3
-http://183.207.248.174/ott.js.chinamobile.com/PLTV/3/224/3221225949/index.m3u8
-#EXTINF:-1 tvg-id="沛县生活" tvg-name="沛县生活" group-title="江苏台",沛县生活
-http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227611/index.m3u8
-#EXTINF:-1 tvg-id="沛县综艺" tvg-name="沛县综艺" group-title="江苏台",沛县综艺
-http://183.207.248.141/ott.js.chinamobile.com/PLTV/3/224/3221227681/index.m3u8
-#EXTINF:-1 tvg-id="睢宁三农" tvg-name="睢宁三农" group-title="江苏台",睢宁三农
-http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227709/index.m3u8
-#EXTINF:-1 tvg-id="睢宁生活教育" tvg-name="睢宁生活教育" group-title="江苏台",睢宁生活教育
-http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227701/index.m3u8
-#EXTINF:-1 tvg-id="睢宁资讯" tvg-name="睢宁资讯" group-title="江苏台",睢宁资讯
-http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227712/index.m3u8
-#EXTINF:-1 tvg-id="连云港公共" tvg-name="连云港公共" group-title="江苏台",连云港公共
-http://223.110.243.145/ott.js.chinamobile.com/PLTV/3/224/3221227819/index.m3u8
-#EXTINF:-1 tvg-id="连云港新闻综合" tvg-name="连云港新闻综合" group-title="江苏台",连云港新闻综合
-http://183.207.248.175/ott.js.chinamobile.com/PLTV/3/224/3221227758/index.m3u8
-#EXTINF:-1 tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" group-title="江苏台",江苏体育休闲
-http://223.110.245.156/ott.js.chinamobile.com/PLTV/3/224/3221225935/index.m3u8
-#EXTINF:-1 tvg-id="江苏公共新闻" tvg-name="江苏公共新闻" group-title="江苏台",江苏公共新闻
-http://183.207.249.102/ott.js.chinamobile.com/PLTV/3/224/3221225925/index.m3u8
-#EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" group-title="江苏台",江苏城市
-http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221225929/index.m3u8
-#EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" group-title="江苏台",江苏教育
-http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
-#EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" group-title="江苏台",江苏综艺
-http://183.207.249.172/ott.js.chinamobile.com/PLTV/3/224/3221225931/index.m3u8
-#EXTINF:-1 tvg-id="江苏优漫卡通" tvg-name="江苏优漫卡通" group-title="江苏台",江苏优漫卡通
-http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227577/index.m3u8 
-#EXTINF:-1 tvg-id="南京信息" tvg-name="南京信息" group-title="江苏台",南京信息
-http://223.110.243.146/ott.js.chinamobile.com/PLTV/3/224/3221227730/index.m3u8
-#EXTINF:-1 tvg-id="南京娱乐" tvg-name="南京娱乐" group-title="江苏台",南京娱乐
-http://183.207.249.143/ott.js.chinamobile.com/PLTV/3/224/3221227722/index.m3u8
-#EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" group-title="江苏台",南京少儿
-http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227733/index.m3u8
-#EXTINF:-1 tvg-id="南京影视" tvg-name="南京影视" group-title="江苏台",南京影视
-http://183.207.248.103/ott.js.chinamobile.com/PLTV/3/224/3221227719/index.m3u8
-#EXTINF:-1 tvg-id="南京教科" tvg-name="南京教科" group-title="江苏台",南京教科
-http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227194/index.m3u8
-#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" group-title="江苏台",南京新闻综合
-http://183.207.249.138/ott.js.chinamobile.com/PLTV/3/224/3221227213/index.m3u8
-#EXTINF:-1 tvg-id="南京生活" tvg-name="南京生活" group-title="江苏台",南京生活
-http://223.110.245.140/ott.js.chinamobile.com/PLTV/3/224/3221227786/index.m3u8
-#EXTINF:-1 tvg-id="宿迁综合" tvg-name="宿迁综合" group-title="江苏台",宿迁综合
-http://183.207.248.136/ott.js.chinamobile.com/PLTV/3/224/3221226944/index.m3u8
-#EXTINF:-1 tvg-id="扬州3" tvg-name="扬州3" group-title="江苏台",扬州3
-http://183.207.248.175/ott.js.chinamobile.com/PLTV/3/224/3221227867/index.m3u8
-#EXTINF:-1 tvg-id="镇江2" tvg-name="镇江2" group-title="江苏台",镇江2
-http://183.207.249.106/ott.js.chinamobile.com/PLTV/3/224/3221227325/index.m3u8 
-#EXTINF:-1 tvg-id="百事通体育" tvg-name="百事通体育" group-title="江苏台",百事通体育
-http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8 
 #EXTINF:-1 tvg-id="无锡新闻综合" tvg-name="无锡新闻综合" group-title="江苏台",无锡新闻综合
 http://stream.thmz.com/wxtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="无锡都市资讯" tvg-name="无锡都市资讯" group-title="江苏台",无锡都市资讯
@@ -77,5 +11,3 @@ http://stream.thmz.com/wxtv4/playlist.m3u8
 http://stream.thmz.com/wxtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="江阴新闻综合" tvg-name="江阴新闻综合" group-title="江苏台",江阴新闻综合
 http://221.228.70.101:8080/live/xinwen.m3u8
-#EXTINF:-1 tvg-id="宜兴新闻综合" tvg-name="宜兴新闻综合" group-title="江苏台",宜兴新闻综合
-http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
